@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">UndraityteLabaratorinis4</string>
+    <string name="btn_exchange_rates">Exchange rates</string>
+    <string name="tv_caption">Please press the button to see exchange rates</string>
+</resources>
